@@ -1,0 +1,2 @@
+Set cmd = CreateObject("WScript.Shell")
+cmd.run "notepad.exe"
